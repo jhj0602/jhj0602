@@ -12,7 +12,5 @@
   
   
 ### Interested in solving algorithmic problems, Data structure and learning something new  
-#### Gold5예정 💚  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjj03231)](https://solved.ac/jjj03231) 
 
 </div>
