@@ -1,6 +1,6 @@
 <div align=center>  
   
-[![stats](https://github-readme-stats.vercel.app/api?username=LeeseongSu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![stats](https://github-readme-stats.vercel.app/api?username=jhj960918&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Technologies & Tools  
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
