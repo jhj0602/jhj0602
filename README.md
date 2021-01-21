@@ -11,6 +11,6 @@
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)  
  ![](https://img.shields.io/badge/Framework-vue-informational?style=flat&logo=Vue&logoColor=white&color=2bbc8a)  
   
-### Interested in solving algorithmic problems, Data structure and learning something new  
+
 
 </div>
