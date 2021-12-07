@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Springboot-informational?style=flat&logo=Spring&color=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Framework-jpa-informational?style=flat&logo=jpa&logoColor=white&color=2bbc8a)  
 ![](https://img.shields.io/badge/Framework-vue-informational?style=flat&logo=Vue&logoColor=white&color=2bbc8a)  
   
 
