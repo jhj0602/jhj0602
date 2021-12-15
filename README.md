@@ -9,5 +9,5 @@
 ![](https://img.shields.io/badge/Framework-vue-informational?style=flat&logo=Vue&logoColor=white&color=2bbc8a)  
   
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/JPA-3DDC84?style=flat-square&logo=Jpa&logoColor=white"/>
 </div>
