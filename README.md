@@ -18,8 +18,8 @@
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) 
   ![MySql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![JPA](https://img.shields.io/badge/JPA-F79A10?style=for-the-badge&logo=java&logoColor=white) 
-  ![Mybatis](https://img.shields.io/badge/Mybatis-0052CC?style=for-the-badge&logo=java&logoColor=white) 
+  ![JPA](style=for-the-badge&logo=java&logoColor=white) 
+  ![Mybatis](style=for-the-badge&logo=java&logoColor=white) 
 
 
 <!-- <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> -->
