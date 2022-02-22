@@ -7,8 +7,8 @@
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-2D333B?&style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white)
 <br/>
-![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-FF9900?&style=flat-square&logo=Amazon AWS&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-AmazonS3-569A31?&style=flat-square&logo=Amazon S3&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-FF9900?&style=flat-square&logo=AmazonAWS&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-AmazonS3-569A31?&style=flat-square&logo=AmazonS3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?&style=flat-square&logo=Nginx&logoColor=white)
 <br/>
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white) ![Vuex](https://img.shields.io/badge/-Vuex-34495e?&style=flat-square&logo=Vue.js&logoColor=white)
