@@ -18,15 +18,14 @@
 - **SSAFY** - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) (Jul 2021 ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 <br><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhj0602&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhj0602&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" height="150px"/>
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jhj0602&hide=javascript,html,python,css,powershell,php,batchfile&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jhj0602&hide=javascript,html,python,css,powershell,php,batchfile&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" height="150px"/>
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=jhj0602&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=jhj0602&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=49.2% />
 </a>
 
 
