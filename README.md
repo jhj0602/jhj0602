@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> [**노션**](https://alabaster-skink-5b1.notion.site/Jin-Hyoung-Jun-761e86b26b1a4c0f85ffc7d55d8db60f)에서 저의 이력을 확인하실 수 있습니다. (2021.12. 업데이트)
+
 ## 🛠 Tech Stack
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?&style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white)
