@@ -6,7 +6,6 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?&style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?&style=flat-square&logo=Hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/-QueryDSL-2D333B?&style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white)
 <br/>
 ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-FF9900?&style=flat-square&logo=AmazonAWS&logoColor=white)
